@@ -1,0 +1,539 @@
+# THE WHOLE PIZZERIA - ONE GROUPCHAT TO RULE THEM ALL
+# Act 1: the morning shift
+
+WELCOME Freddy$^1#!join
+WELCOME Bonnie$^1#!join
+WELCOME Chica$^1#!join
+WELCOME Foxy$^1#!join
+
+Freddy:
+morning crew$^1.5#!softmessage
+shift starts in 10, dont be late$^2#!message
+@Bonnie is the stage actually fixed$^1.5#!click
+
+Bonnie:
+define fixed$^1.5#!pop
+
+Freddy:
+@Bonnie.$^1#!error
+
+Bonnie:
+fine, duct tape incoming$^1.5#!typing
+
+Chica:
+guys i may have eaten the show pizza$^2#!hamburger
+the WHOLE pizza$^1.5#!vineboom
+
+Foxy:
+YARRR who touched me hook$^2#!knock
+it wasnt me this time i swear on me chest cavity$^2#!confusion
+
+# Act 2: the toys arrive
+
+WELCOME ToyFreddy$^1#!join
+WELCOME ToyBonnie$^1#!join
+WELCOME ToyChica$^1#!join
+
+ToyFreddy:
+hi, we are the new improved cast$^2#!softmessage
+management gave us the day shift$^2#!message
+
+Freddy:
+the WHAT shift$^1.5#!vineboom
+
+ToyChica:
+my cupcake says hi$^1.5#!pop
+
+ToyBonnie:
+my guitar has more glitter than your whole career$^2#!message
+
+Bonnie:
+fight me glitter boy$^1.5#!error
+
+Freddy:
+no fighting, we are professionals$^2#!message
+@ToyFreddy touch my microphone and die$^2#!zap
+
+ToyFreddy:
+understandable, have a nice day$^2#!pop
+
+# Act 3: the mangle situation
+
+WELCOME Mangle$^1#!join
+WELCOME BB$^1#!join
+WELCOME JJ$^1#!join
+
+Mangle:
+hello i brought my entire body$^2#!knock
+all 43 pieces of it$^1.5#!pop
+
+BB:
+hello hello hi hello$^1.5#!message
+
+JJ:
+i am simply here to watch$^2#!softmessage
+
+Foxy:
+@BB stop taking peoples balloons$^2#!error
+
+BB:
+balloons are a lifestyle$^1.5#!message
+
+Foxy:
+@Mangle you are banned from the vents$^2#!vineboom
+
+Mangle:
+the vents are my home though$^2#!confusion
+
+# Act 4: funtime entrance
+
+WELCOME FuntimeFoxy$^1#!join
+WELCOME FuntimeChica$^1#!join
+WELCOME Ballora$^1#!join
+WELCOME CircusBaby$^1#!join
+
+CircusBaby:
+did someone say pizza party$^2#!softmessage
+
+Ballora:
+i heard dancing$^1.5#!message
+
+FuntimeFoxy:
+we heard FREE FOOD$^2#!hamburger
+
+FuntimeChica:
+i am literally just happy to be here$^2#!message
+
+Chica:
+@FuntimeChica respect, same$^1.5#!softmessage
+
+CircusBaby:
+@Ballora dance battle at closing time$^2#!pop
+
+Ballora:
+the floor will remember this$^2#!zap
+
+# Act 5: the rockstars form a band
+
+WELCOME RockstarFreddy$^1#!join
+WELCOME RockstarBonnie$^1#!join
+WELCOME RockstarChica$^1#!join
+WELCOME RockstarFoxy$^1#!join
+
+RockstarFreddy:
+the rockstars have arrived$^2#!join
+tip jar is mandatory$^2#!message
+
+Freddy:
+@RockstarFreddy we need to talk about the tip jar$^2#!error
+
+RockstarFreddy:
+the tip jar talks for itself$^1.5#!pop
+
+RockstarBonnie:
+we also have a bass solo$^1.5#!message
+it is 45 minutes long$^2#!confusion
+
+RockstarChica:
+i brought a pizza oven ON STAGE$^2#!hamburger
+
+RockstarFoxy:
+yarr i do backflips for tips$^2#!join
+
+Foxy:
+@RockstarFoxy ok that is actually sick$^2#!softmessage
+
+# Act 6: the mediocres assemble
+
+WELCOME HappyFrog$^1#!join
+WELCOME MrHippo$^1#!join
+WELCOME Pigpatch$^1#!join
+WELCOME Neddbear$^1#!join
+WELCOME Orville$^1#!join
+WELCOME MusicMan$^1#!join
+
+HappyFrog:
+hihihihi we are the mediocres$^2#!softmessage
+
+MrHippo:
+allow me to tell you a story$^2#!message
+it was a warm summer evening in ancient greece$^2.5#!confusion
+
+Freddy:
+@MrHippo no$^1#!error
+
+MrHippo:
+when i was a young boy my father took me into the city$^2.5#!typing
+
+Bonnie:
+@MrHippo SIR THIS IS A GROUPCHAT$^2#!vineboom
+
+Pigpatch:
+my banjo disagrees with your attitude$^2#!message
+
+Neddbear:
+i simply vibrate with joy$^2#!pop
+
+MusicMan:
+i heard music, i have arrived$^2#!join
+
+Orville:
+the elephant has entered the Hildabrand$^2#!confusion
+
+Chica:
+what did he say$^1.5#!confusion
+
+Bonnie:
+no one knows$^1.5#!pop
+
+# Act 7: trash gang hours
+
+WELCOME TrashGang$^1#!join
+
+TrashGang:
+we are many, we are one, we are trash$^2.5#!knock
+
+Freddy:
+i did not approve this message$^1.5#!error
+
+TrashGang:
+dumpster behind the pizzeria is FULL, life is good$^2.5#!message
+
+Chica:
+gross$^1#!pop
+
+TrashGang:
+you should see the treasure we found$^2#!message
+a half eaten pizza from 1987$^2#!hamburger
+
+Foxy:
+the 87 pizza is LOADBEARING, put it back$^2#!vineboom
+
+# Act 8: phantom hours
+
+WELCOME PhantomFreddy$^1#!join
+WELCOME PhantomMangle$^1#!join
+WELCOME PhantomBB$^1#!join
+
+PhantomFreddy:
+boo$^1#!scary
+
+Freddy:
+AHH$^1#!vineboom
+
+PhantomFreddy:
+sorry, contract says i have to$^2#!softmessage
+
+PhantomMangle:
+we are basically horror influencers$^2#!message
+
+PhantomBB:
+boo balloon$^1.5#!pop
+
+Bonnie:
+why are there so many of us$^2#!confusion
+
+# Act 9: withered warnings
+
+WELCOME WitheredBonnie$^1#!join
+WELCOME WitheredChica$^1#!join
+
+WitheredBonnie:
+the 87 incident was NOT my fault$^2#!error
+
+WitheredChica:
+i have no arms and i must snack$^2.5#!hamburger
+
+Foxy:
+@WitheredBonnie the 87 was me mate$^2#!message
+
+WitheredBonnie:
+wait WHAT$^1.5#!vineboom
+
+Freddy:
+@Foxy you cant just SAY that$^2#!error
+
+Foxy:
+1987 was a wild year$^2#!pop
+
+# Act 10: night crew
+
+WELCOME Helpy$^1#!join
+WELCOME Lefty$^1#!join
+WELCOME Marionette$^1#!join
+WELCOME Nightmarionne$^1#!join
+
+Helpy:
+tiny lawyer reporting for duty$^2#!softmessage
+
+Lefty:
+i am here to collect, in a totally normal way$^2.5#!knock
+
+Marionette:
+i have watched everything from my box$^2#!message
+everything$^1.5#!scary
+
+Nightmarionne:
+as have i$^1.5#!scary
+
+Marionette:
+who said that$^1.5#!vineboom
+
+# Act 11: 3AM the nightmares log on
+
+WELCOME NightmareFreddy$^1#!join
+WELCOME NightmareBonnie$^1#!join
+WELCOME Nightmare$^1#!join
+WELCOME NightmareFredbear$^1#!join
+WELCOME NightmareBB$^1#!join
+WELCOME NightmareMangle$^1#!join
+WELCOME JackOChica$^1#!join
+
+NightmareFreddy:
+it is 3AM$^1.5#!scary
+
+NightmareBonnie:
+you know what time it is$^2#!knock
+
+Nightmare:
+knock knock$^1.5#!knock
+
+Chica:
+WHO IS KNOCKING AT 3AM$^2#!vineboom
+
+NightmareFredbear:
+we are the nightmares, this is our shift$^2.5#!scary
+
+NightmareBB:
+balloons but evil$^1.5#!pop
+
+NightmareMangle:
+the vents whisper my name$^2#!scary
+
+JackOChica:
+it is always halloween on MY stage$^2#!scary
+trick or treat, losers$^1.5#!knock
+
+Foxy:
+everyone stay calm$^2#!message
+CALMLY RUN AROUND SCREAMING$^2#!vineboom
+
+Freddy:
+@GoldenFreddy a little help here$^2#!error
+
+# Act 12: golden freddy speaks
+
+WELCOME GoldenFreddy$^1#!join
+
+GoldenFreddy:
+it is me$^2#!hehascome
+
+Freddy:
+oh no$^1#!vineboom
+
+GoldenFreddy:
+the nightmares fear my sitting position$^2.5#!scary
+
+Nightmare:
+fair enough, we will leave$^2#!softmessage
+
+GoldenFreddy:
+it is me$^1.5#!pop
+
+Bonnie:
+he does this every halloween$^2#!message
+
+# Act 13: the sister location crew
+
+WELCOME Ennard$^1#!join
+WELCOME MoltenFreddy$^1#!join
+WELCOME ScrapBaby$^1#!join
+
+Ennard:
+hello, i am many people in one suit$^2.5#!knock
+
+MoltenFreddy:
+i am a wire salad with dreams$^2#!confusion
+
+ScrapBaby:
+did somebody say MOTIVE$^2#!message
+
+CircusBaby:
+@ScrapBaby not now sis$^1.5#!pop
+
+Ennard:
+the vents are quite roomy this time of year$^2#!message
+
+Foxy:
+THE VENTS ARE CLOSED$^2#!vineboom
+
+Ennard:
+the vents are never closed$^2#!scary
+
+# Act 14: springtrap afton incident
+
+WELCOME Springtrap$^1#!join
+WELCOME Afton$^1#!join
+
+Springtrap:
+i was always watching$^2#!scary
+
+Afton:
+i always come back$^2#!hehascome
+
+Freddy:
+NOT THIS GUY AGAIN$^1.5#!vineboom
+
+Springtrap:
+i applied for the night shift$^2#!message
+
+Chica:
+REJECT HIM$^1.5#!error
+
+Afton:
+i also brought my own springlocks$^2#!knock
+
+Helpy:
+that is a workplace safety violation$^2#!message
+i am getting management$^1.5#!typing
+
+# Act 15: management intervention
+
+WELCOME PhoneGuy$^1#!join
+WELCOME ElChip$^1#!join
+WELCOME OldMan$^1#!join
+
+PhoneGuy:
+uh, hello hello$^2#!message
+uh, welcome to your new summer job$^2.5#!softmessage
+if springtrap is in the building, that is, uh, not covered by insurance$^3#!confusion
+
+Afton:
+@PhoneGuy you left me in a backroom for 30 years$^2.5#!error
+
+PhoneGuy:
+uh, i also died in a costume, so, we all have baggage$^3#!confusion
+
+ElChip:
+TRY EL CHIP, THE CHIPS ARE CRAZY$^2.5#!hamburger
+
+OldMan:
+sit down son, this is my river now$^2.5#!message
+
+Springtrap:
+i do not want to sit down$^2#!error
+
+OldMan:
+SIT. DOWN. SON.$^2#!vineboom
+
+# Act 16: the final battle
+
+Springtrap:
+enough, i am taking the pizzeria$^2.5#!scary
+
+Afton:
+and the playlist$^2#!zap
+
+Freddy:
+NOT THE PLAYLIST$^2#!vineboom
+
+Bonnie:
+UNO REVERSE$^1.5#!error
+
+Chica:
+deploying emergency pizza$^1.5#!hamburger
+
+Helpy:
+filing restraining order at light speed$^2#!typing
+
+Marionette:
+the box is open, i gave them the gift$^2.5#!scary
+
+GoldenFreddy:
+it is me$^1.5#!hehascome
+
+Springtrap:
+why is the room getting dark$^2#!scary
+
+GoldenFreddy:
+because it is me$^2#!explosion
+
+# Act 17: aftermath
+
+Afton:
+i have been banned from the groupchat$^2#!error
+
+Afton:
+i always come ba$^1.5#!leave
+
+Freddy:
+and stay out$^1.5#!message
+
+Springtrap:
+technically i was also him, so, bye i guess$^2.5#!leave
+
+Nightmare:
+the nightmares have left the chat$^2#!leave
+
+MoltenFreddy:
+i am going back to being wire salad$^2#!confusion
+
+Ennard:
+the vents await$^1.5#!leave
+
+TrashGang:
+we found springlocks in the dumpster, score$^2.5#!knock
+
+Freddy:
+@TrashGang give them back$^1.5#!error
+
+TrashGang:
+no$^1#!pop
+
+# Act 18: pizza party ending
+
+Chica:
+PIZZA PARTY TO CELEBRATE$^2#!hamburger
+
+FuntimeChica:
+i am literally just happy$^1.5#!softmessage
+
+RockstarFreddy:
+pizza party at my place, tip jar comes too$^2.5#!message
+
+MrHippo:
+this reminds me of a story$^2#!confusion
+
+Freddy:
+NO$^1#!vineboom
+@MrHippo do not finish that story$^1.5#!error
+
+MrHippo:
+it begins on a warm summer evening$^2.5#!confusion
+
+Bonnie:
+@Chica how much pizza is left$^1.5#!message
+
+Chica:
+the real pizza was the friends we ate along the way$^3#!hamburger
+
+Freddy:
+that is not the saying$^1.5#!error
+
+Chica:
+i know what i said$^1.5#!pop
+
+Freddy:
+goodnight everyone, same time tomorrow$^2#!softmessage
+
+ToyBonnie:
+same time, more glitter$^1.5#!message
+
+Mangle:
+same time, more vents$^1.5#!knock
+
+GoldenFreddy:
+it is me$^1.5#!pop
+
+Freddy:
+goodnight golden freddy$^2#!softmessage

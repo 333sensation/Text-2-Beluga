@@ -1,26 +1,202 @@
 {
-    "Freddy": {
-        "profile_pic": "fnaf/freddy_fazbear.png",
-        "role_color": "#a86e3c"
-    },
-    "Bonnie": {
-        "profile_pic": "fnaf/bonnie.png",
-        "role_color": "#8f5dff"
-    },
-    "Chica": {
-        "profile_pic": "fnaf/chica.png",
-        "role_color": "#ffe14d"
-    },
-    "Foxy": {
-        "profile_pic": "fnaf/foxy.png",
-        "role_color": "#ff5c5c"
-    },
-    "GoldenFreddy": {
-        "profile_pic": "fnaf/golden_freddy.png",
-        "role_color": "#e6c35c"
-    },
-    "Springtrap": {
-        "profile_pic": "fnaf/springtrap.png",
-        "role_color": "#9dd45e"
-    }
+  "Freddy": {
+    "profile_pic": "fnaf/freddy_fazbear.png",
+    "role_color": "#a86e3c"
+  },
+  "Bonnie": {
+    "profile_pic": "fnaf/bonnie.png",
+    "role_color": "#8f5dff"
+  },
+  "Chica": {
+    "profile_pic": "fnaf/chica.png",
+    "role_color": "#ffe14d"
+  },
+  "Foxy": {
+    "profile_pic": "fnaf/foxy.png",
+    "role_color": "#ff5c5c"
+  },
+  "GoldenFreddy": {
+    "profile_pic": "fnaf/golden_freddy.png",
+    "role_color": "#e6c35c"
+  },
+  "Springtrap": {
+    "profile_pic": "fnaf/springtrap.png",
+    "role_color": "#9dd45e"
+  },
+  "Afton": {
+    "profile_pic": "fnaf/afton.png",
+    "role_color": "#b026d9"
+  },
+  "Ballora": {
+    "profile_pic": "fnaf/ballora.png",
+    "role_color": "#b39ddb"
+  },
+  "BB": {
+    "profile_pic": "fnaf/bb.png",
+    "role_color": "#4fc3f7"
+  },
+  "CircusBaby": {
+    "profile_pic": "fnaf/circus_baby.png",
+    "role_color": "#ff8a80"
+  },
+  "ElChip": {
+    "profile_pic": "fnaf/el_chip.png",
+    "role_color": "#ffb74d"
+  },
+  "Ennard": {
+    "profile_pic": "fnaf/ennard.png",
+    "role_color": "#d0cfcf"
+  },
+  "FuntimeChica": {
+    "profile_pic": "fnaf/funtime_chica.png",
+    "role_color": "#ff91a4"
+  },
+  "FuntimeFoxy": {
+    "profile_pic": "fnaf/funtime_foxy.png",
+    "role_color": "#f48fb1"
+  },
+  "HappyFrog": {
+    "profile_pic": "fnaf/happy_frog.png",
+    "role_color": "#aed581"
+  },
+  "Helpy": {
+    "profile_pic": "fnaf/helpy.png",
+    "role_color": "#ffe0b2"
+  },
+  "JackOChica": {
+    "profile_pic": "fnaf/jack_o_chica.png",
+    "role_color": "#ff7043"
+  },
+  "JJ": {
+    "profile_pic": "fnaf/jj.png",
+    "role_color": "#4dd0e1"
+  },
+  "Lefty": {
+    "profile_pic": "fnaf/lefty.png",
+    "role_color": "#757575"
+  },
+  "Mangle": {
+    "profile_pic": "fnaf/mangle.png",
+    "role_color": "#f8bbd0"
+  },
+  "Marionette": {
+    "profile_pic": "fnaf/marionette.png",
+    "role_color": "#9575cd"
+  },
+  "MoltenFreddy": {
+    "profile_pic": "fnaf/molten_freddy.png",
+    "role_color": "#c17f3e"
+  },
+  "MrHippo": {
+    "profile_pic": "fnaf/mr_hippo.png",
+    "role_color": "#a1887f"
+  },
+  "MusicMan": {
+    "profile_pic": "fnaf/music_man.png",
+    "role_color": "#ba68c8"
+  },
+  "Neddbear": {
+    "profile_pic": "fnaf/neddbear.png",
+    "role_color": "#ffca28"
+  },
+  "Nightmare": {
+    "profile_pic": "fnaf/nightmare.png",
+    "role_color": "#6d4c41"
+  },
+  "NightmareBB": {
+    "profile_pic": "fnaf/nightmare_bb.png",
+    "role_color": "#8d6e63"
+  },
+  "NightmareBonnie": {
+    "profile_pic": "fnaf/nightmare_bonnie.png",
+    "role_color": "#5c6bc0"
+  },
+  "NightmareFredbear": {
+    "profile_pic": "fnaf/nightmare_fredbear.png",
+    "role_color": "#d4b106"
+  },
+  "NightmareFreddy": {
+    "profile_pic": "fnaf/nightmare_freddy.png",
+    "role_color": "#795548"
+  },
+  "NightmareMangle": {
+    "profile_pic": "fnaf/nightmare_mangle.png",
+    "role_color": "#ce93d8"
+  },
+  "Nightmarionne": {
+    "profile_pic": "fnaf/nightmarionne.png",
+    "role_color": "#7e57c2"
+  },
+  "OldMan": {
+    "profile_pic": "fnaf/old_man.png",
+    "role_color": "#8d6e63"
+  },
+  "Orville": {
+    "profile_pic": "fnaf/orville.png",
+    "role_color": "#b39ddb"
+  },
+  "PhantomFreddy": {
+    "profile_pic": "fnaf/phantom_freddy.png",
+    "role_color": "#8d6e63"
+  },
+  "PhantomMangle": {
+    "profile_pic": "fnaf/phantom_mangle.png",
+    "role_color": "#b0bec5"
+  },
+  "PhantomBB": {
+    "profile_pic": "fnaf/phantom_bb.png",
+    "role_color": "#4db6ac"
+  },
+  "PhoneGuy": {
+    "profile_pic": "fnaf/phone_guy.png",
+    "role_color": "#ffd54f"
+  },
+  "Pigpatch": {
+    "profile_pic": "fnaf/pigpatch.png",
+    "role_color": "#ef9a9a"
+  },
+  "RockstarBonnie": {
+    "profile_pic": "fnaf/rockstar_bonnie.png",
+    "role_color": "#9575cd"
+  },
+  "RockstarChica": {
+    "profile_pic": "fnaf/rockstar_chica.png",
+    "role_color": "#ffee58"
+  },
+  "RockstarFoxy": {
+    "profile_pic": "fnaf/rockstar_foxy.png",
+    "role_color": "#ff7043"
+  },
+  "RockstarFreddy": {
+    "profile_pic": "fnaf/rockstar_freddy.png",
+    "role_color": "#e0a13c"
+  },
+  "ScrapBaby": {
+    "profile_pic": "fnaf/scrap_baby.png",
+    "role_color": "#e57373"
+  },
+  "ToyBonnie": {
+    "profile_pic": "fnaf/toy_bonnie.png",
+    "role_color": "#42a5f5"
+  },
+  "ToyChica": {
+    "profile_pic": "fnaf/toy_chica.png",
+    "role_color": "#ffee58"
+  },
+  "ToyFreddy": {
+    "profile_pic": "fnaf/toy_freddy.png",
+    "role_color": "#c98f4e"
+  },
+  "TrashGang": {
+    "profile_pic": "fnaf/trash_and_the_gang.png",
+    "role_color": "#9e9e9e"
+  },
+  "WitheredBonnie": {
+    "profile_pic": "fnaf/withered_bonnie.png",
+    "role_color": "#5c6bc0"
+  },
+  "WitheredChica": {
+    "profile_pic": "fnaf/withered_chica.png",
+    "role_color": "#fdd835"
+  }
 }
