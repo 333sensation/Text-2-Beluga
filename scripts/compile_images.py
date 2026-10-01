@@ -43,7 +43,7 @@ def gen_vid(filename):
 
     video_width, video_height = 1280, 720
     ffmpeg_cmd = (
-        f"ffmpeg -f concat -safe 0 -i image_paths.txt -vcodec libx264 -r 25 -crf 25 "
+        f"ffmpeg -y -f concat -safe 0 -i image_paths.txt -vcodec libx264 -r 25 -crf 25 "
         f"-vf \"scale={video_width}:{video_height}:force_original_aspect_ratio=decrease,"
         f"pad={video_width}:{video_height}:(ow-iw)/2:(oh-ih)/2\" -pix_fmt yuv420p output.mp4"
     )

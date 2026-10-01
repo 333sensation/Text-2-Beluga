@@ -53,6 +53,7 @@ MESSAGE_X = 190
 MESSAGE_Y_INIT = 115
 MESSAGE_DY = 70
 MESSAGE_POSITIONS = [(MESSAGE_X, MESSAGE_Y_INIT + i * MESSAGE_DY) for i in range(5)]
+EMOJI_LINE_HEIGHT = int(MESSAGE_FONT_SIZE * 2 * 1.65)  # rendered emoji height (scale 2) + padding; font.getbbox returns 0 for emoji
 
 # Load fonts
 font = "whitney" # Change this according to the font you want to use
@@ -102,8 +103,7 @@ def generate_chat(messages, name_time, profpic_file, color):
     y_increment = 0
     for msg in messages:
         if is_emoji_message(msg):
-            bbox = message_font.getbbox("💀")
-            y_increment += (bbox[3] - bbox[1]) + 8
+            y_increment += EMOJI_LINE_HEIGHT
 
     total_height = WORLD_HEIGHTS_MESSAGE[len(messages) - 1] + y_increment
     template = Image.new(mode='RGBA', size=(WORLD_WIDTH, total_height), color=WORLD_COLOR)
@@ -127,7 +127,7 @@ def generate_chat(messages, name_time, profpic_file, color):
             with Pilmoji(template) as pilmoji:
                 pilmoji.text((current_x, y_pos), message, MESSAGE_FONT_COLOR, font=message_font,
                              emoji_position_offset=(0, 8), emoji_scale_factor=2)
-            y_offset += message_font.getbbox(message)[3]
+            y_offset += EMOJI_LINE_HEIGHT
             continue
 
         # Tokenize for bold (**), italic (__), and mentions (@...)
