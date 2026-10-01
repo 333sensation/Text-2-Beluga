@@ -1,26 +1,26 @@
 {
-    "Billy": {
-        "profile_pic": "perm/billy.jpeg",
-        "role_color": "#ffffff"
+    "Freddy": {
+        "profile_pic": "fnaf/freddy_fazbear.png",
+        "role_color": "#a86e3c"
     },
-    "Pizza": {
-        "profile_pic": "perm/pizza.jpeg",
-        "role_color": "#ffcc6e"
+    "Bonnie": {
+        "profile_pic": "fnaf/bonnie.png",
+        "role_color": "#8f5dff"
     },
-    "Nerd": {
-        "profile_pic": "perm/nerd.jpg",
-        "role_color": "#9cffa1"
+    "Chica": {
+        "profile_pic": "fnaf/chica.png",
+        "role_color": "#ffe14d"
     },
-    "Cashew": {
-        "profile_pic": "perm/cashew.jpg",
-        "role_color": "#f2b8ff"
+    "Foxy": {
+        "profile_pic": "fnaf/foxy.png",
+        "role_color": "#ff5c5c"
     },
-    "Peanut": {
-        "profile_pic": "perm/peanut.png",
-        "role_color": "#7885ff"
+    "GoldenFreddy": {
+        "profile_pic": "fnaf/golden_freddy.png",
+        "role_color": "#e6c35c"
     },
-    "Cheddar": {
-        "profile_pic": "perm/cheddar.png",
-        "role_color": "#ff7878"
+    "Springtrap": {
+        "profile_pic": "fnaf/springtrap.png",
+        "role_color": "#9dd45e"
     }
 }

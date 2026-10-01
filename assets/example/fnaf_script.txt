@@ -1,0 +1,112 @@
+WELCOME Freddy$^1#!join  
+WELCOME Bonnie$^1#!join  
+WELCOME Chica$^1#!join  
+
+Freddy:  
+morning dipshits$^1.5#!pop  
+who the fuck ate the pizza I ordered at 3am$^2#!vineboom  
+
+Chica:  
+**it was one slice**$^1.5#!message  
+ok it was the whole pizza$^1.5#!error  
+WORTH IT$^1#!hamburger  
+
+Foxy:  
+YARRR good morning scallywags$^2#!join  
+why does the vent keep FUCKING SQUEAKING$^2#!knock  
+im gonna lose my shit$^1.5#!vineboom  
+
+Bonnie:  
+skill issue$^1#!softmessage  
+guitar practice at 6am, some of us have PASSION$^2#!typing  
+
+Freddy:  
+your passion sounds like a cat in a blender$^2#!zap  
+also @Foxy stop opening the door, power aint free$^2#!error  
+
+WELCOME GoldenFreddy$^1#!join  
+
+Foxy:  
+SPEAK OF THE FUCKING DEVIL 😭$^1.5#!hehascome  
+IT'S THE DAMN HALLUCINATION BEAR$^1.5#!scary  
+
+GoldenFreddy:  
+__it me__$^1.5#!confusion  
+i dont even work here anymore$^2#!softmessage  
+i just show up to ruin everyones shit$^2#!vineboom  
+
+Bonnie:  
+bro took "silent partner" too seriously 💀$^2#!pop  
+
+WELCOME Springtrap$^1#!join  
+
+Springtrap:  
+evening cunts$^1.5#!error  
+miss me?$^1#!scary  
+
+Freddy:  
+**NO**$^1#!vineboom  
+you smell like a corpse in a sauna, get OUT$^2#!message  
+
+Springtrap:  
+@Freddy 30 years in a wall and THIS is the welcome i get?$^2.5#!error  
+un-fucking-believable$^1.5#!confusion  
+
+Chica:  
+tbf the wall was probably an upgrade$^2#!pop  
+💀💀💀$^1.5#!vineboom  
+
+Foxy:  
+LMAOOOO the corpse got ROASTED$^1.5#!explosion  
+well, further roasted$^1.5#!pop  
+
+Springtrap:  
+i have a knife$^1#!scary  
+
+Foxy:  
+and i have a hook, what's your point$^1.5#!zap  
+nightmare bunny looking ass$^1.5#!error  
+
+GoldenFreddy:  
+can we all shut the fuck up, some of us are trying to haunt$^2.5#!scary  
+💀$^1#!pop  
+
+Bonnie:  
+im telling the phone guy$^1#!typing  
+
+Freddy:  
+the phone guy is DEAD Bonnie$^2#!confusion  
+he's been dead since 1993$^1.5#!error  
+
+Bonnie:  
+im telling his ghost then$^1#!softmessage  
+
+Springtrap:  
+about that... 💀$^1.5#!hehascome  
+who do you think keeps calling$^2#!knock  
+
+Chica:  
+**WHAT DO YOU MEAN**$^1.5#!vineboom  
+THE CALLS ARE COMING FROM INSIDE THE PIZZERIA??$^2#!scary  
+
+Foxy:  
+i didnt need to sleep anyway, thanks$^2#!confusion  
+fucking hell$^1#!error  
+
+GoldenFreddy:  
+skill issue$^1#!pop  
+
+Freddy:  
+alright meeting adjourned before Springtrap eats someone$^2#!typing  
+same time tomorrow, bring your own pizza$^1.5#!message  
+Chica im looking at you$^1.5#!hamburger  
+
+Chica:  
+no promises$^1#!pop  
+😈🍕$^1.5#!vineboom  
+
+Foxy:  
+im going back to me Cove, screw you all$^2#!leave  
+
+Springtrap:  
+cya nerds 💀$^1#!leave  
